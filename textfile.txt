@@ -1,0 +1,2 @@
+Text file contents.
+Added text.git
