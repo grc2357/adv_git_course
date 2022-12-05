@@ -1,5 +1,6 @@
 Text file contents.
-Added text.git
+
+A commit that differs from the previous commits.
 
 Text for new commit 1.
 
