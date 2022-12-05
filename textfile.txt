@@ -6,3 +6,5 @@ Text for new commit 1.
 Text for new commit 2 updated.
 
 Text for new commit 3.
+
+Final text for commit 4.
