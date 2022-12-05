@@ -1,2 +1,6 @@
 Text file contents.
 Added text.git
+
+Text for new commit 1(edited).
+
+Text for new commit 2.
