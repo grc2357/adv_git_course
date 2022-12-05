@@ -1,3 +1,11 @@
 Text file contents.
 
 A commit that differs from the previous commits.
+
+Text for new commit 1.
+
+Text for new commit 2 updated.
+
+Text for new commit 3.
+
+Final text for commit 4.
